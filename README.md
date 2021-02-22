@@ -15,13 +15,13 @@ O **Justiceiro** é um joguinho referente à um viajante no tempo, que deseja ma
 
 ## Screenshots
 
-![](./assets/justiceiro1.png)
+![](./assets/inicio.png)
 
-![](./assets/justiceiro2.png)
+![](./assets/perdeu.png)
 
-![](./assets/justiceiro3.png)
+![](./assets/perdeu.png)
 
-![](./assets/justiceiro4.png)
+![](./assets/venceu.png)
 
 ## Instalação 
 **Linguagem**: JavaScript<br>
