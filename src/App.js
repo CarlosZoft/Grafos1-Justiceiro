@@ -68,17 +68,11 @@ function App() {
       <h1>Justiceiro</h1>
       <div className="titles">
         <p>
-          Era uma vez, um jovem viajante que tinha sede de justiça pelo mundo,
-          ele descobriu que para que o mundo fosse um lugar melhor, ele teria que
-          evitar que todas as guerras que acontecerem. Isso fez com que ele construisse
-          uma máquina do tempo. Para viajar e "conhecer" todos os lugares que
-          deram início para guerras. Ele então descobriu uma familia que deu origem
-          a um dos maiores genocidas do mundo. Ele então resolveu, viajar no tempo. Matar o pai
-          do assassino para que o assassino nunca chegasse a nascer e ninguém tivesse que morrer inocentemente.
-          Porém, você não pode cometer os mesmos erros que ele e também matar inocentes.
-          Então <span style={{color: '#FF0000'}}> TOME CUIDADO </span> com quem você mata.
-          Boa sorte!!
+          No ano de 2188, a humanidade estava nas mãos de um único ditador. Sim, essa pessoa que você sabe muito bem quem é, mas todos tem medo de proferir seu nome. Ele possui uma mente horripilante e descartou seu lado humano por poder. 
+          Você e um grupo de rebeldes que não aceitam que a humanidade tenha se tornado uma distopia por causa de um único tirano, e arquitetaram um plano para eliminar a existência deste ditador. Sendo assim, seus melhores cientistas construíram uma máquina no tempo. 
         </p>
+        <p>
+          Porém, vocês possuíam apenas uma chance de voltar no tempo e eliminar uma pessoa da árvore genealógica do ditador, para que assim, ele nunca venha a nascer. Por sorte, você possui um registro com todas as pessoas da família dele, mas você não sabe quais são as ligações de parentesco. Dessa forma, precisará de sorte para eliminar uma pessoa que esteja ligada sequencialmente a ele. O destino da humanidade está em suas mãos, por favor, salve a todos. </p>
         <h1 
           id="statusTitle"
           style={getStatus() === "VENCEU" ? {color: '#399748' } : getStatus() === "PERDEU" ? {color: '#e64343'} : { color: 'black' }}  
